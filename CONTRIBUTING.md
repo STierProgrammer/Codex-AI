@@ -1,7 +1,7 @@
-<h1>***Contribution Guidelines***</h1>
+**<h1>Contribution Guidelines</h1>**
 Thank you for considering contributing to our open-source AI project! We appreciate your interest and welcome contributions from everyone.
 
-How to Contribute
+**<h2>How to Contribute</h2>**
 To contribute to our project, please follow these steps:
 
 Fork the repository to your own GitHub account.
