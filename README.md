@@ -1,2 +1,2 @@
-# O-S-AI
+# Codex AI
 An Open-Source AI 
